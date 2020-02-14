@@ -1,0 +1,167 @@
+
+*{
+    box-shadow: darkgray;
+    border: grey;
+}
+ 
+.body{
+    font-family: 'Times New Roman';
+}
+
+.header{
+    background-color: ivory;
+    padding: 1000px;
+    text-align: center;
+    font-size: 100px ;
+   
+}
+.nav{
+    float: right ;
+    width: 100% ;
+    height: 50%;
+    background: cornsilk;
+    padding:45px;
+
+}
+.article{
+    float: left;
+    height: 30pc;
+    width: 78pc ;
+    background:fixed ;
+    padding: 40pc ;
+}
+.articleA{
+    float: left;
+    height: 40px;
+    width: 34px;
+    background: rgb(red, green, blue);
+    padding: 60px;
+}
+.articleC
+{
+   float: none;
+   height: 40pc;
+   width: unset;
+   background-color: whitesmoke;
+   padding: unset;
+}
+.articleP
+{
+    float: left;
+    height: 45pc;
+    width: unset;
+    border: white;
+    padding: unset;
+}
+
+
+.section{
+    float: left;
+    height: 40pc;
+    width: 45px ;
+    background: fixed;
+    padding: 33px ;
+}
+.sectionA
+{
+    float: none;
+    font-size: 67px;
+}
+
+.sectionC
+{
+    float: none;
+    font-family: Verdana;
+
+}
+
+.SectionP
+{
+    float: none;
+    font-family: 'Franklin Gothic Medium';
+}
+
+.article{
+    float: right;
+
+}
+
+.footer{
+    background: right;
+    width: 30px ;
+    padding:27px ;
+}
+h1{
+font-size: 50px;
+
+}
+h1{
+    color: yellow;
+}
+h2{
+    color: yellow;
+}
+h2{
+    font-size: 50px;
+}
+h3{
+    color: yellow;
+   
+}
+h3{
+     font-size: 50px;
+}
+h4{
+    color: yellow;
+    
+}
+h4{
+    font-size: 60px;
+}
+
+
+p{
+    
+    font-size: 50px;
+
+}
+p{
+
+    color: yellow;
+
+}
+.p3
+{
+    color: yellow;
+}
+.p4
+{
+    color: wheat;
+}
+.p5{
+   color: tomato;
+}
+.p6
+{
+    color: aqua;
+}
+.font-sizer{
+    font-size: 30px;
+}
+.font-sizer-2{
+    font-size:34 px;
+}
+.Mover
+{
+    float: right;
+}
+.images-sizer{
+    background: left;
+    background-size: unset;
+}
+
+
+
+
+
+
